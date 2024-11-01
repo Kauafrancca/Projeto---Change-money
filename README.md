@@ -5,4 +5,5 @@
 <strong>Desktop:</strong>
 <br>
 <br>
-<img src="" />
+<img src="https://github.com/Kauafrancca/Projeto-Change-money/blob/main/assets/telainicial.png?raw=true" />
+<img src="https://github.com/Kauafrancca/Projeto-Change-money/blob/main/assets/exemplo1.png?raw=true" />
